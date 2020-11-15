@@ -1,1 +1,1 @@
-# race-demographics
+# racial-demographics
